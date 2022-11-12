@@ -1,0 +1,6 @@
+$ java -jar walletgenerator.jar -t -c 3
+address #    : 1
+seed         : pull assist echo fiscal learn lens feature boil frog banner term enter capable speed tone buddy mobile notable
+public key   :  3P89inw7JBf4hn1rQNMbyT1hE2K9pFUn1Cy
+private key  : 508be45a8e4419aed356b9e120130e0b
+address      : 3P89inw7JBf4hn1rQNMbyT1hE2K9pFUn1Cy
